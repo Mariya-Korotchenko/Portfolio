@@ -53,7 +53,7 @@
 * Tableau (визуализация)
 ## Исходные данные
 1. Файлы tableau_project_data_1.csv, tableau_project_data_2.csv, tableau_project_data_3.csv - данные выступления со следующей стрктурой:
-    * talk_id — идентификатор выступления
+    - `talk_id` — идентификатор выступления
     * url — ссылка на запись выступления
     * title — название выступления
     * description — краткое описание
