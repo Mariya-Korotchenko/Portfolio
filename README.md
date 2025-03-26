@@ -32,7 +32,7 @@
   - Выделено 3 сегмента с высоким риском (37-42% оттока)
   - Разработаны персонализированные решения для каждого сегмента  
 
-### 2. [Исследование истории TED-конференций](ссылка_на_проект)
+### 2. [Исследование истории TED-конференций](https://github.com/Mariya-Korotchenko/Portfolio/tree/main/History%20of%20TED%20conferences)
 ![E-commerce Preview](https://via.placeholder.com/600x300/2D4263/FFFFFF?text=E-commerce+Sales)
 - **Задача:** Оптимизация ассортимента
 - **Технологии:** SQL, Excel
