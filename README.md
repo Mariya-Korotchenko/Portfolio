@@ -59,4 +59,4 @@
 
 ## 📩 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mariya_june)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:maruya_june95@mail.ru)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](https://e.mail.ru/compose/?to=maruya_june95@mail.ru)
