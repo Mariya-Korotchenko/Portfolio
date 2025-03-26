@@ -26,7 +26,6 @@
 ## 💼 Проекты
 
 ### 1. [Анализ оттока клиентов банка](https://github.com/Mariya-Korotchenko/Portfolio/tree/main/Analysis%20of%20the%20bank's%20customer%20outflow)
-![Bank Churn Preview](https://via.placeholder.com/600x300/252B48/FFFFFF?text=Bank+Churn+Analysis)
 - **Задача:** Выявить факторы оттока клиентов
 - **Технологии:** Python, Pandas, Seaborn
 - **Результаты:**  
