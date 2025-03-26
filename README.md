@@ -1,6 +1,4 @@
-# 📊 Портфолио аналитика данных | Мария Коротченко
-
-![Data Analytics Banner](https://via.placeholder.com/1200x400/3F72AF/FFFFFF?text=Data+Analytics+Portfolio)
+# Портфолио аналитика данных | Мария Коротченко
 
 ## 👨‍🎓 Обо мне
 Начинающий аналитик данных с сильной мотивацией к профессиональному росту.  
@@ -58,6 +56,5 @@
 - Построение ETL-процессов
 
 ## 📩 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:ваша@почта.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mariya_june)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:maruya_june95@mail.ru)
